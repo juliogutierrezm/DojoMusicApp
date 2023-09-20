@@ -1,7 +1,8 @@
 # Dojo Music App
 
+<div style="text-align:center;">
 ![Static Badge](https://img.shields.io/badge/Bootcamp-Coding%20Dojo-05A9E1)
-
+</div>
 
 ###  Hello! We are Jonathan Burbano & Julio Gutierrez 🚀
 ### Full stack developers
