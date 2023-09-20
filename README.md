@@ -2,13 +2,12 @@
 
 ![Static Badge](https://img.shields.io/badge/Bootcamp-Coding%20Dojo-05A9E1)
 
- // Jonathan Burbano - Julio Gutiérrez
 
 ###  Hello! We are Jonathan Burbano & Julio Gutierrez 🚀
 ### Full stack developers
 
 ### About 
-- We are from Ecuador and Costa rica.
+- We are from Ecuador and Costa Rica.
 - MERN Full Stack Developers.
 - Self-taught and highly creative individual who seeks to learn and improve every day.
 - We enjoy working with the frontend because we want to provide the best visual experience for the users who visit our projects.
