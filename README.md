@@ -51,7 +51,17 @@
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+During the project, we encountered several challenges and gained valuable insights:
+
+Teamwork: Collaborating effectively as a team was crucial. We learned how to coordinate tasks, communicate efficiently, and leverage each team member's strengths.
+
+Documentation: Proper documentation was essential for project clarity and future reference. We improved our documentation skills, ensuring that our code and project details were well-documented.
+
+Information Gathering: Extensive research was required to address various technical challenges. We became adept at sourcing information, utilizing online resources, and seeking solutions effectively.
+
+GitHub and Git Bash: We honed our Git and GitHub skills, mastering version control, branching, and collaboration through pull requests. Git Bash became an indispensable tool for managing our project repository.
+
+MERN Stack Expertise: Working with the MERN stack (MongoDB, Express.js, React, Node.js) deepened our understanding of full-stack development. We tackled issues related to database management, server-side logic, and frontend UI development.
 
 
 ## Feedback
