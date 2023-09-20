@@ -44,11 +44,6 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
  
-
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=juliogutierrezm&show_icons=true)
-
-
 ## Lessons Learned
 
 Throughout the project, we encountered various challenges and gained valuable insights:
@@ -65,7 +60,9 @@ Throughout the project, we encountered various challenges and gained valuable in
 
 These experiences enriched our development journey, equipping us with valuable skills and a stronger grasp of full-stack development with MERN technologies.
 
+### GitHub Stats
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=juliogutierrezm&show_icons=true)
 
 ## Feedback
 
