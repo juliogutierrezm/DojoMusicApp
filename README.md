@@ -20,7 +20,9 @@
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=Mongoose)	
+![FastApi](https://img.shields.io/badge/-FastApi-333333?style=flat&logo=FastApi)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+
 
 
 ## Frontend Technologies
