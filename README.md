@@ -1,6 +1,7 @@
 # Dojo Music App
 
-![Static Badge](https://img.shields.io/badge/Bootcamp-Coding%20Dojo-blue)
+![Static Badge](https://img.shields.io/badge/Bootcamp-Coding%20Dojo-05A9E1)
+
  // Jonathan Burbano - Julio Gutiérrez
 
 ###  Hello! We are Jonathan Burbano & Julio Gutierrez 🚀
