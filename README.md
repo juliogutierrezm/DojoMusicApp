@@ -1,6 +1,7 @@
 # Dojo Music App
 
-Proyecto Final Grupal Bootcamp Coding Dojo // Jonathan Burbano - Julio Gutiérrez
+![Static Badge](https://img.shields.io/badge/Bootcamp-Coding%20Dojo-blue)
+ // Jonathan Burbano - Julio Gutiérrez
 
 ###  Hello! We are Jonathan Burbano & Julio Gutierrez 🚀
 ### Full stack developers
@@ -19,11 +20,11 @@ Proyecto Final Grupal Bootcamp Coding Dojo // Jonathan Burbano - Julio Gutiérre
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=Mongoose)	
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ## Frontend Technologies
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
