@@ -69,4 +69,4 @@ These experiences enriched our development journey, equipping us with valuable s
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at dojomusiapp@programmer.net
