@@ -1,7 +1,4 @@
 # Dojo Music App
-<div style="text-align:right;">
-  ![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-Contributor-green?style=flat&logo=github)
-</div>
 
 ![Static Badge](https://img.shields.io/badge/Bootcamp-Coding%20Dojo-05A9E1)
 
